@@ -1,0 +1,6 @@
+# KhataManager Pro Authorization File
+# AppLovin MAX Network Placement Holder
+applovin.com, PLACEholder_ID_Change_Me, DIRECT
+
+# Google AdSense Network Placement Holder
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
